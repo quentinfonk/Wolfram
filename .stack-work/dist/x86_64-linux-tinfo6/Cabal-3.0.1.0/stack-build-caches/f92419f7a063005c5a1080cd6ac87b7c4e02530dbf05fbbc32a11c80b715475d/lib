@@ -1,0 +1,20 @@
+/home/quentinfonk/github/Wolfram/package.yaml:
+  hash: 2ec4702bd38415264923d0799f33f3123ad8c07deb26b65847f2d82f3194573b
+/home/quentinfonk/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+/home/quentinfonk/github/Wolfram/azerty.cabal:
+  hash: cdb956bf6a40b237c4c2a0085232d6193a8d0a899e0d4baa214b4512f52df0c2
+/home/quentinfonk/github/Wolfram/ChangeLog.md:
+  hash: f91a77bd04803cb8eecbc1878e7f54384e0bd54a2b2d2e37dd86ca2783d4640b
+/home/quentinfonk/github/Wolfram/README.md:
+  hash: 0a43ba45045a861578cd5205fb51b0784b2027ba765fb676977054e99a4e9ebd
+/usr/include/stdc-predef.h:
+  hash: 2e86550497437ec45c60c22ca663262607b5da3d5e4d3aed7f8a9aaa0f7577c0
+/home/quentinfonk/github/Wolfram/src/Check.hs:
+  hash: b90b25b5fd687ce83ad4daf225c537c477731d5b658e02d6ab5b447c9a3f442c
+/home/quentinfonk/github/Wolfram/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
+  hash: 5c462117ed065e0ef5db1c7b23a58aa13497e388ec8695d3dcc6a2f24ca04ac1
+/home/quentinfonk/github/Wolfram/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/Paths_azerty.hs:
+  hash: dc1c2d20e6c11706efdf2a216822d1ad2d985a68378da9eeddff8f7e5b74a210
+/home/quentinfonk/github/Wolfram/src/Lib.hs:
+  hash: b6c6ec3b86b8b7fc9a0bbdc8627b55b3ddc5446b5f87a416564b6eb8c88126f5
